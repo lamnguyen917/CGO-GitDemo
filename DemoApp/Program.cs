@@ -6,7 +6,7 @@ namespace DemoApp
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("HELLO WORLD!");
+            Console.WriteLine("HELLO WORLD! from LamNX");
         }
     }
 }
